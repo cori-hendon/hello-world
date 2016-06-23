@@ -1,3 +1,4 @@
 # hello-world
-my first github repository\n
+my first github repository
+
 adding new line to readme file  
